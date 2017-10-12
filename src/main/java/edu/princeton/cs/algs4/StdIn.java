@@ -68,7 +68,7 @@ import java.util.regex.Pattern;
  *  one at a time, and prints them one per line.
  *  <pre>
  *  while (!StdIn.isEmpty()) {
- *      double value = StdIn.readDouble();
+ *      int value = StdIn.readInt();
  *      StdOut.println(value);
  *  }
  *  StdOut.println(sum);
